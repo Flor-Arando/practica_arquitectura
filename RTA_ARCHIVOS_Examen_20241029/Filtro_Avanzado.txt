@@ -1,0 +1,7 @@
+Please ask your administrator.
+Please ask your administrator.
+IP: 181.2.173.194
+> Usuario: vagrant
+> HASH de usuario: $y$j9T$HIXNPU/DrODZlJ8sit5Sj1$hajA5.euuNe7pqRlissf5wyNZLs0sRRnptBnVVSpYbD 
+> URL: git@github.com:Flor-Arando/practica_arquitectura.git
+
